@@ -68,6 +68,62 @@ The analysis focuses on answering four critical business questions:
 
 ---
 
+Secondary Analysis:-
+
+1.) Who are the major competitors in the Indian air purifier market, and what are their key differentiators (e.g., price, filtration stages, smart features)?
+
+Ans:-
+
+The major competitors in the Indian air purifier market are:
+
+	 Brand 	       Price Range	     Filtration Stages	   Smart Features	             Special/Technology
+0	 Dyson	        Premium	          Multi-stage	        Voice control, app	        Advanced HEPA + carbon filters
+1	 Philips  	    Mid-range	        Multi-stage	        Basic app control	          True HEPA, low noise
+2	 Xiaomi	        Budget-friendly	  3–4 stages	        Smart connectivity, app	    Efficient CADR, compact design
+3	 Coway	        Mid-high	        Multi-stage	        Limited app features	      High CADR, long-lasting filters
+4	 Eureka Forbes	Mid-range	        3–4 stages	        Limited smart features	    Plasma ionizer for allergens
+5	 Honeywell	    Mid-high	        Multi-stage	        Minimal app features	      Energy-efficient, high CADR
+6	 Sharp	        Mid-range	        Multi-stage	        Basic smart features	      Plasmacluster technology
+7  Panasonic	    Mid-range	        Multi-stage	        Limited smart features	    Energy-saving features
+8	 Samsung	      Mid-range	        Multi-stage	        App connectivity	          Modern design, smart sensors
+9	 LG	            Mid-range	        Multi-stage	        App connectivity	          Stylish design, efficient filters
+
+2.) How aware are Indian citizens of what AQI (Air Quality Index) means — and do they understand its health implications?
+
+Ans:-
+
+Awareness of the Air Quality Index (AQI) and its health implications among Indian citizens varies significantly across regions and demographics.
+
+Key Insights:
+
+. General Awareness: A perception study across 17 Indian cities found that approximately 55% of respondents were aware of the term "Air Quality Index" (AQI). Awareness was notably higher among men (52.9%) compared to women (55.5%). "Bengaluru Sustainability Forum"
+
+. Health Understanding: While many are aware of AQI, understanding its health implications is less widespread. For instance, a study highlighted that individuals with limited literacy proficiency had little or no understanding of AQI and its associated health risks. "CCAC Coalition"
+
+. Regional Variations: In urban areas like Delhi, awareness is higher, especially among students, teachers, and professionals. However, in rural regions such as Najafgarh, awareness is lower, with many residents unaware of AQI and its health impacts. "CCAC Coalition"
+
+3.) Which pollution control policies introduced by the Indian government in the past 5 years have had the most measurable impact on improving air quality — and how have these impacts varied across regions or cities?
+
+Ans:-
+
+Over the past five years, the Indian government has implemented several air pollution control policies that have had varying degrees of success across different regions.
+
+Key Policies and Their Impacts:
+
+National Clean Air Programme (NCAP): Launched to reduce particulate matter (PM2.5 and PM10) levels by 40% by 2026 compared to 2017 levels. This program has led to improvements in air quality in several cities, though results have been mixed. For instance, Indore and Jabalpur in Madhya Pradesh have shownsignificant improvements, while Bengaluru's air quality has worsened due to increasing vehicular emissions and road dust. "The Times of India"
+
+Swachh Vayu Survekshan: An annual air quality assessment that ranks cities based on their air quality improvements. Cities like Agra, Kanpur, and Prayagraj have made notable progress, while others like Ghaziabad have also improved their rankings due to measures like dust control and green initiatives. "The Times of India"
+
+Stubble Burning Control Measures: In states like Punjab, Haryana, and Uttar Pradesh, efforts to reduce stubble burning have been ongoing. While some progress has been made, challenges remain due to the practice's prevalence and its contribution to seasonal air pollution. "Wikipedia"
+
+Regional Variations:
+
+. North India: Cities like Delhi continue to face severe air quality issues, with PM2.5 levels often exceeding safe limits. Despite various policies, the region struggles with high pollution levels due to factors like vehicular emissions and crop residue burning. Climate Growth Institute
+
+. South India: States like Karnataka have shown mixed results. While some cities have improved air quality, others like Bengaluru have seen a decline due to rising vehicular emissions and road dust. The Times of India
+
+---
+
 ## 🏁 Conclusion
 
 India’s worsening air quality represents both a public health emergency and a market opportunity.
