@@ -76,17 +76,19 @@ Ans:-
 
 The major competitors in the Indian air purifier market are:
 
-	 Brand 	       Price Range	     Filtration Stages	   Smart Features	             Special/Technology
-0	 Dyson	        Premium	          Multi-stage	        Voice control, app	        Advanced HEPA + carbon filters
-1	 Philips  	    Mid-range	        Multi-stage	        Basic app control	          True HEPA, low noise
-2	 Xiaomi	        Budget-friendly	  3–4 stages	        Smart connectivity, app	    Efficient CADR, compact design
-3	 Coway	        Mid-high	        Multi-stage	        Limited app features	      High CADR, long-lasting filters
-4	 Eureka Forbes	Mid-range	        3–4 stages	        Limited smart features	    Plasma ionizer for allergens
-5	 Honeywell	    Mid-high	        Multi-stage	        Minimal app features	      Energy-efficient, high CADR
-6	 Sharp	        Mid-range	        Multi-stage	        Basic smart features	      Plasmacluster technology
-7  Panasonic	    Mid-range	        Multi-stage	        Limited smart features	    Energy-saving features
-8	 Samsung	      Mid-range	        Multi-stage	        App connectivity	          Modern design, smart sensors
-9	 LG	            Mid-range	        Multi-stage	        App connectivity	          Stylish design, efficient filters
+| Brand             | Price Range | Filtration Stages | Smart Features          | Key Technology / Special Feature  |
+| ----------------- | ----------- | ----------------- | ----------------------- | --------------------------------- |
+| **Dyson**         | Premium     | Multi-stage       | Voice control, App      | Advanced HEPA + Carbon filters    |
+| **Philips**       | Mid-range   | Multi-stage       | Basic app control       | True HEPA, Low noise              |
+| **Xiaomi**        | Budget      | 3–4 stages        | Smart connectivity, App | Compact design, Efficient CADR    |
+| **Coway**         | Mid-high    | Multi-stage       | Limited app features    | High CADR, Long-lasting filters   |
+| **Eureka Forbes** | Mid-range   | 3–4 stages        | Limited smart features  | Plasma ionizer for allergens      |
+| **Honeywell**     | Mid-high    | Multi-stage       | Minimal app features    | Energy-efficient, High CADR       |
+| **Sharp**         | Mid-range   | Multi-stage       | Basic smart features    | Plasmacluster technology          |
+| **Panasonic**     | Mid-range   | Multi-stage       | Limited smart features  | Energy-saving features            |
+| **Samsung**       | Mid-range   | Multi-stage       | App connectivity        | Smart sensors, Modern design      |
+| **LG**            | Mid-range   | Multi-stage       | App connectivity        | Stylish design, Efficient filters |
+
 
 2.) How aware are Indian citizens of what AQI (Air Quality Index) means — and do they understand its health implications?
 
